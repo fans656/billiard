@@ -1,0 +1,3 @@
+ms_per_frame		10
+delta_strength		1
+max_velocity		1
